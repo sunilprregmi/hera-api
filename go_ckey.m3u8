@@ -1,0 +1,1326 @@
+#EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
+
+# Scrapped on 2025-12-22 13:31:20
+# Total 82 channels Available.
+# Property Of DMN @ dishhomego.com.np
+# Combined by Sunil Prasad @ sunilprasad.com.np
+# Free resources with Public Broadcast Only.
+# Not for sale, misuse, restream, download, or any illegal copy.
+# Providers must contact me directly for any discussions.
+# Unauthorized access or takedown attempts will face legal consequences.
+
+# All Channels (82 channels)
+#EXTINF:-1 tvg-id="67" tvg-name="8xm" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f62b01a6-02f1-44c0-ad6e-7b75f86d3a4f.jpg" tvg-chno="304" group-title="All Channels", 8XM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e11ed4f96dd4ef7a73ba579419e174f:d1afcb332bf7cc819a8d396978da9e72
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/OQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="343" tvg-name="9x-jalwa" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3fe4b83b-4cbd-4f99-a7c0-b00a331a5d03.jpg" tvg-chno="306" group-title="All Channels", 9X Jalwa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec4954da35eb43bdae2959e6eec8e5d6:7dcbdcd8ac5c4888c23f31eadb24c756
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/OwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="66" tvg-name="9xm" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/79a05e11-a1bc-4ebb-9b60-5a9b7335d576.jpg" tvg-chno="301" group-title="All Channels", 9XM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bfb4baff9384d78a678b3ecc26e437c:c1a282e364ae5dc4dc9fb96d61469b57
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/NgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="3175" tvg-name="a-sports" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4442d302-99bd-4ed1-89ab-0194ce4ef719.jpg" tvg-chno="610" group-title="All Channels", A Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1db17ffc1cf749d6a299ab207fc5d6ef:e7a14ecaf32847dfc1189be156d2fcb8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="30" tvg-name="abc" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/d8d0db1f-be83-4cb0-a9e0-3b0adca5ff41.jpg" tvg-chno="139" group-title="All Channels", ABC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5cdfa60aa754987a28398c7869d1dcd:83d63f0295f09896f1f25bffa4b4b9e6
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="110" tvg-name="abp-news" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9adcfe80-7b5a-40ba-884a-a73a762f4a9a.jpg" tvg-chno="705" group-title="All Channels", ABP News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d07ec16882c34efabc469f451a05648c:16d40f1827062470decb77a3dbb8d7c0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/UATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="154" tvg-name="al-jazeera" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/57f745e3-9d04-480a-a2cd-3f0c1f2dbb0f.jpg" tvg-chno="702" group-title="All Channels", AL Jazeera
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b3703557d1c4105835ed37df6c17c4a:18a01cea3f301e781dd6d67645353a61
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/RwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="34" tvg-name="ap-1-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/80ba3c2f-5574-4a80-8b81-7240d01374bf.jpg" tvg-chno="134" group-title="All Channels", AP 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f363a987fbfa4ea1a79e5548cc9f905c:df1c341cec5d9d435273f9d1397ef892
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="68" tvg-name="ary-music" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4931048e-3b3f-49fe-9d17-876a181183ff.jpg" tvg-chno="305" group-title="All Channels", ARY Musik
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e3da5e8aa3e43b8b9a2c2c2f20426bd:c5fe2e1462b682e503d3e0d7216516c7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/OgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="690" tvg-name="aastha" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4cb60300-8862-45f6-9f47-3f7489d3c894.jpg" tvg-chno="900" group-title="All Channels", Aastha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c1b7608b5ac4368a2580d334d3711b7:018d33e605c28b48a142dfb0809bb90f
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/ZwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="6" tvg-name="action-sports-hd-1" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/eabe701c-d2e5-4c98-bd0c-6f06e8537103.jpg" tvg-chno="105" group-title="All Channels", Action Sports HD 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4912a6d28e14838b15fa4c57f4d42ac:09d2a7f26d94dbb9dfdc2f2d2bbc7cf0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="action-sports-hd-2" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3db6653d-d30e-465c-8ba5-ac5a5cb84b51.jpg" tvg-chno="106" group-title="All Channels", Action Sports HD 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2d1fd5a141e4ce38d2618670d411acd:b0e1d25d5f17c0f3c4a7448dce4f1f19
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="88" tvg-name="all-times-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4c472048-0a9c-49dc-a8c4-d02ee032926b.jpg" tvg-chno="521" group-title="All Channels", All Times Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7836133ab0e249d9873679e0e637ac9c:634532e7e91fde8ec82ca2a6b21339d4
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="496" tvg-name="anjan" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/505c43f7-c235-4bcf-84e8-5e4dfeae945c.jpg" tvg-chno="212" group-title="All Channels", Anjan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e274913c990b432ca5c91ebc3e48a651:5d63e95cd21af01c1f2905a59d07c4c3
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="28" tvg-name="avenues" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e1d4201b-9e9d-417c-966d-105ac7a3a43b.jpg" tvg-chno="137" group-title="All Channels", Avenues
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be0970d37b4d421f9923dee8b79d44e3:3f51510f96fe1a02d0b14312542c6ed8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="340" tvg-name="b4u-kadak" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/d909117e-fe62-4363-a55d-dc6efb318d65.jpg" tvg-chno="522" group-title="All Channels", B4U Kadak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1aec37b40e4fd4b2d29fbfa7d03e7c:9a7b5cb09abb279ead2c458e8fc30eeb
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="327" tvg-name="b4u-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e3180c8c-7451-4901-a707-74e10a4a622f.jpg" tvg-chno="510" group-title="All Channels", B4U Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/JgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="1176" tvg-name="b4u-music" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/dfc98a41-fe36-43bb-afec-19462e897f34.jpg" tvg-chno="303" group-title="All Channels", B4U Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b34710134f034bbca1e79c131caae20d:31b8b3e2e66aedb328602ec50612f862
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/OATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="35" tvg-name="btv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/05673427-3424-4028-ae37-4e45c67f0154.jpg" tvg-chno="148" group-title="All Channels", BTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cacb1c6b4764f5b970145817158ea7a:de1a708607c0e547a0a38390cb11482a
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="98" tvg-name="bflix-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9866ad0e-e534-40b8-bb7d-95a3dc8a3af2.jpg" tvg-chno="523" group-title="All Channels", Bflix Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1a4f98d0b4410da97200bd2d65558f:af7556c617e63728f5df54deeef3afce
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="38" tvg-name="bhakti-darsan" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/14519184-060c-4ea9-8e37-8666318c5cde.jpg" tvg-chno="151" group-title="All Channels", Bhakti Darsan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="32" tvg-name="business-plus-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/8998910e-45b0-4df4-835b-11e5a8570327.jpg" tvg-chno="152" group-title="All Channels", Business Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c844fc54803946c8a752ef4f806a47f2:b9600afa51ebf20eca030fff8ea3fd06
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="1324" tvg-name="cgtn" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/62447fab-8df7-4fda-b78b-d23015eabaa8.jpg" tvg-chno="718" group-title="All Channels", CGTN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9716fa6646974c4580efe1086dba853b:1acee2e069f6dea14562b7c750bd9ed4
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/WATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="122" tvg-name="cna" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3985dd57-e878-4f64-859f-1f061a8b5673.jpg" tvg-chno="712" group-title="All Channels", CNA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ede428be9790485982cef920deed033b:bc2029195bacdd11ca3e6567b2eacec2
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/UgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-name="cine-hits" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/615f8696-144f-45cf-b657-3a1224285700.jpg" tvg-chno="110" group-title="All Channels", Cine Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="8" tvg-name="comedy-plus" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/96433ce3-b003-4fa6-9899-93b0d9260b13.jpg" tvg-chno="108" group-title="All Channels", Comedy plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9541071bb4a4fb19ed63c08e50927fe:003d26e0dcbf0d94446007a28e8c1c4b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="11" tvg-name="d-movies" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1bedec8b-1265-43b7-83b2-8e939b3f9719.jpg" tvg-chno="111" group-title="All Channels", D Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="12" tvg-name="d-music" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/86e03a6f-a0e3-4319-8a01-22ecba539a75.jpg" tvg-chno="112" group-title="All Channels", D Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d45216070b944628a7bf74d8552d1c2:c570e417e5844d5c12502e0d9dd5c4fe
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/6ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="99" tvg-name="dd-bharati" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4c981668-569f-4758-a34a-e64130124cf7.jpg" tvg-chno="214" group-title="All Channels", DD Bharati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3f844b3360e4ebe9f0148e834c9ab92:3a811d96834f6718c102562072f334a3
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/JATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="70" tvg-name="dd-gyan-darshan" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/a2538bd8-0fbb-4d2e-bbcc-ff79f9bba5d7.jpg" tvg-chno="409" group-title="All Channels", DD Gyan Darshan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc465a241d04d448cf6fa4c1b841d35:632d24d938fded23c1ab92b0056bd4ac
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/QATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="75" tvg-name="dd-india" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e47b34e7-16bd-4dd4-8981-b346eb7f7733.jpg" tvg-chno="708" group-title="All Channels", DD India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63694c1383db421eb70e65233c9f78a0:937fd8194f5e2f7f05e6bca9112d2a4e
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/TgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="71" tvg-name="dd-kisan" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/138e3ffd-1c90-41e4-88db-1ffa61ac5634.jpg" tvg-chno="410" group-title="All Channels", DD Kisan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80ea49fa4ae841a4951fbd129eb5046c:7b05b8696763c90c8d0884b67b04a0b7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/QQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="1175" tvg-name="dd-national-hd" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/552a9bdf-9bda-4376-86a1-5703b3dab2e4.jpg" tvg-chno="411" group-title="All Channels", DD National HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e617b214376f473c813cc1791b064434:ec6aaa4c1dcab13d7c2756520afc1c8a
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/QgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="230" tvg-name="dd-sports" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/aa1a644e-88d4-42a1-a9f4-7071e6a00f1a.jpg" tvg-chno="609" group-title="All Channels", DD Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37bef186f9534561b32530074539766f:de40706695243fca2781b9a5a8929ef7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/igTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="230" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" tvg-chno="611" group-title="All Channels", DD Sports 1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b5e323c3c8a4b77a892853849752efe:14dc5abc2efb8be359d66591a329e429
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="2" tvg-name="dh-showcase" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f6f0992d-398f-418d-8610-2d702f227b1e.jpg" tvg-chno="101" group-title="All Channels", DH Showcase
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9869ba772ad4b68b303fe6119442a40:51f6b1ebfb487594aee12f34452053d8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/HwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="81" tvg-name="daystar-tv" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e18c7c86-01a3-4ed5-ab1f-1b51fadde4b8.jpg" tvg-chno="905" group-title="All Channels", Daystar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98f398dd1a0849e792ab018444ae9d77:5eb1d268323edd9fc238df58a9105967
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/bATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="232" tvg-name="euro-news" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/2d009782-65d7-46b1-8dc7-24d787da0fba.jpg" tvg-chno="711" group-title="All Channels", Euro News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e44726af637d49d8ae03d0a8bd5f1193:473ca30ffa9f1313406918519e2fd277
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/UQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="236" tvg-name="fashion-tv-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/64f00790-d57f-42d6-b113-5020943a1327.jpg" tvg-chno="413" group-title="All Channels", Fashion TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2220659201f8418882cad30e25c6f801:d412afe29c6ed3c798cbc1cd0c4f6853
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/RATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="108" tvg-name="france-24-hd" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3a6e8e32-3d52-4a02-b8b8-1a20845c3301.jpg" tvg-chno="709" group-title="All Channels", France 24 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0efb9e6e442f4943b6fd8985e75dd865:b5b56064a137c686ea77b8c69563b2bf
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/SQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="48" tvg-name="global" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/df17a06e-063c-456b-b28c-8904c4915de9.jpg" tvg-chno="141" group-title="All Channels", Global
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86584e7fe11d4faf80e4dd3b3d475bf3:85fc13f52bb559bacdd8613e1675bd06
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="170" tvg-name="goldmines-bollywood" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7a991eed-0b28-45eb-a46c-4eabd1436d45.jpg" tvg-chno="520" group-title="All Channels", Goldmines Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/fwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="9" tvg-name="gunjan-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b02d526d-df0b-4413-87d8-d259c4361609.jpg" tvg-chno="109" group-title="All Channels", Gunjan HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e17e7a7fef40af8be6825b82a2f32f:f1746ddce45b72efa8a5c11a5d5d9149
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="33" tvg-name="himalaya-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b401a2a2-a964-4f89-9414-de3e50ca8af8.jpg" tvg-chno="133" group-title="All Channels", Himalaya HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=113ab6bec8d24095a427e5e881940d74:8f7681365ca6e38cb1b9fc632fbfd481
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="95" tvg-name="himshikhar-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/36760b19-ce35-44b8-8531-7ea21462a9fb.jpg" tvg-chno="170" group-title="All Channels", Himshikhar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccb7b69c9804087a5526e82a1dcde8e:b3107772da79683a8c2ae46645c5dca1
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/GATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="image" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/0f3ae34e-7c77-4110-b18b-faba01a5c693.jpg" tvg-chno="131" group-title="All Channels", Image
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9afd927817142e392cb565f5aff3a3e:46ed9b8f41fd0d66dc0c314d50f41d87
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="69" tvg-name="insync" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9de8a212-93b6-406e-9a2e-2a025772105e.jpg" tvg-chno="307" group-title="All Channels", InSync
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95dce5be8eda4e4a8e1600a8dd19614e:4549ba9a36dc882e72a56d4d58aa5af0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/PATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="39" tvg-name="janata-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/cfb420ba-4c49-4664-8ff6-733c2afc4f23.jpg" tvg-chno="153" group-title="All Channels", Janata TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b96cf8eb7f04074b6656791e7f0a640:2cbf77b4b3e7aa9fb9d5b1ac4898d392
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="7" tvg-name="jhigu-nepa" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/c31f1cb2-7330-45e3-beb5-cd33edc71cd4.jpg" tvg-chno="107" group-title="All Channels", Jhigu Nepa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9b9d244dce448687696f0a56bcb075:0143138f6f4f696ba5a695d9971fe5ab
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/4wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="14" tvg-name="junior-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/75696627-34a5-449f-89a8-62c36dcc203a.jpg" tvg-chno="114" group-title="All Channels", Junior TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=715e5f3927b446ccb842badab76f1881:11474e8784e8e63450b57d315339ead8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/6gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-name="kantipur-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/872ffb07-b21a-4b29-a021-8653e2f61d08.jpg" tvg-chno="130" group-title="All Channels", Kantipur HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d349f2d22a4f0eb342d9e00af8d183:71f2a02ac0c875b4827a02a11ebdce03
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="83" tvg-name="kartoon-channel" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ce414bae-7e17-427d-a9fe-ebe877c88afe.jpg" tvg-chno="814" group-title="All Channels", Kartoon Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec2815264e0d4ced99b6d1e0838ac92f:20f6c4d993411dc8b54f2b0eb0f1f699
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/fQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="86" tvg-name="khangba-tv" tvg-language="ZHO" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/553213a1-3028-4528-9ac9-8f7f2c0968d7.jpg" tvg-chno="719" group-title="All Channels", Khangba Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5abcdd7412514ad68b84206d08e19ae9:c268a9c2d60349a6ad8277bed8303e0b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/WQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="1541" tvg-name="madani" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/dbfb6ead-3034-4602-b005-ef0a279668ba.jpg" tvg-chno="901" group-title="All Channels", Madani
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a7b20ea44fc4ad495cb89b1467da7c6:15c4c6dcd2dacb67e3158892714d6188
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/aATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="16" tvg-name="madhesh-plus" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9493c21e-8138-4eda-8d66-b4d0fd46f937.jpg" tvg-chno="116" group-title="All Channels", Madhesh Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da94205e934e94b8ba0882722ff2e6:c90980cabb535f3dfe90af23b0c338d7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="31" tvg-name="mountain-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/cf0adb64-3d3d-458c-9649-cacd2e28fb60.jpg" tvg-chno="140" group-title="All Channels", Mountain HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be1c274e1069411f8b59977e651d5c79:44c79c053dc8271441389a79fd2942e4
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="94" tvg-name="music-india" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/301a459e-d5cb-44fe-9eca-01a12b339479.jpg" tvg-chno="302" group-title="All Channels", Music India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c5a0fefffdd4f7385abf1f37f1a228e:3940040db412d8e4ffdbae62e65b8d19
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/NwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-name="ntv-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9b287812-8774-49e7-8b14-9543cdd4b9e3.jpg" tvg-chno="132" group-title="All Channels", NTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a94d5da343b44e7a08413f29403f87b:61429c8f811aaf074244141bc32b7a35
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-name="ntv-itahari-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3fdcd79f-6b87-4d5f-a9ec-583d6ffd980c.jpg" tvg-chno="147" group-title="All Channels", NTV Itahari HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=191bf78a29ca43c480192248e61cee4d:4d53f66454db7463525a3e3345fcc25b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="25" tvg-name="ntv-kohalpur-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9c94b727-0a99-4a33-b746-78fa2c30ab63.jpg" tvg-chno="146" group-title="All Channels", NTV Kohalpur HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911bc3577bc847bea45cab361b3bd1ef:d5b013b044b7a0ecab8d996ec4f80828
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="24" tvg-name="ntv-news-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b9b1a34b-4e8a-4580-a3a4-16c3fbcd8f55.jpg" tvg-chno="145" group-title="All Channels", NTV News HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=659e20a278324f89afe3992cb6761c39:b8f3e2ac81baaa553cadcc0d6e0959c2
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="62" tvg-name="nepal-mandal" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/c61e29a0-b2a7-4a67-9590-53fe72537633.jpg" tvg-chno="167" group-title="All Channels", Nepal Mandal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b6b95879dcd49019b04f39ea44fe3b1:f7ee6e5d19a04171c8013f3b310b7471
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/FQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="29" tvg-name="news-24" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f0f39e19-bd5d-4450-883c-7f9f5f19e2a5.jpg" tvg-chno="138" group-title="All Channels", News 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="41" tvg-name="omkar" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/0889c9ca-7024-406f-9a8c-9d96722df47a.jpg" tvg-chno="154" group-title="All Channels", Omkar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f363ca579b41e6b14a43462bba8a28:11ace93705c729fe336ea78d1ab5c2a7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/BQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="79" tvg-name="peace-of-mind" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/764fc1e3-2d7a-4c52-acb0-7f111f6ad9e5.jpg" tvg-chno="902" group-title="All Channels", Peace of Mind
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94c136fd6f4640089dd23ab7053ed1ac:205a21f40702ed6b018a0d6a9bf1958b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/aQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="78" tvg-name="planet-fun" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9b7197aa-3c2d-4d71-960a-a0802e4b5d99.jpg" tvg-chno="813" group-title="All Channels", Planet Fun
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f761d25171e94e1bb5374c41ea135f49:81d0cd98deaad8caf9e77a1b62e3d901
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/XATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="4" tvg-name="plus-movie-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3e815745-d081-43fb-a088-4fc8fb3fd32b.jpg" tvg-chno="103" group-title="All Channels", Plus Movie HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IQT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="40" tvg-name="prime-times-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/685be973-4d13-4d04-9b83-7d4d589a9a10.jpg" tvg-chno="135" group-title="All Channels", Prime Times HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9500add101454d7abec9491283fca2c4:fb1bca188cf4247bbfc6f5265e48be19
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="220" tvg-name="rt-documentary" tvg-language="RUS" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/056d6d9e-f59d-4ac3-a728-d4b1987a1b35.jpg" tvg-chno="414" group-title="All Channels", RT Documentary
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f11e3dabd34f4e319c4fd18bf387b1c4:613cc4b852c80d00fb05df0bc917a877
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/jgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="225" tvg-name="rt-news" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/af8aee11-29d9-4b7c-9119-5c94d1813d3f.jpg" tvg-chno="710" group-title="All Channels", RT News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/SgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-name="ramailo-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e1310622-1114-4abb-9d93-7ae4da2f79ae.jpg" tvg-chno="104" group-title="All Channels", Ramailo HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a72efdf7e314b56849291818b51adc0:3cca5195e4d757af526b5e18cd7d11bb
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IgT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="3" tvg-name="reality-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1308e498-80af-4ac3-afa2-729ed3fc6acd.jpg" tvg-chno="102" group-title="All Channels", Reality TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13b8ddeeb623466e96079e495370ad43:adec25b9804cbaf1208c9bf7e27b1593
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IAT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="27" tvg-name="sagarmatha" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/89bab37a-bf74-4c32-bcf4-bf0e3d29e49d.jpg" tvg-chno="136" group-title="All Channels", Sagarmatha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87c5d1bd91b245d5b7e42107da0ed75f:df30c80e16bb6ec4b21ffccb9cd9e730
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="691" tvg-name="sanskar" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1da510e0-a5c1-4ec3-aa1d-e1b3a069dc2b.jpg" tvg-chno="903" group-title="All Channels", Sanskar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ece5e3a80e444206b16fe8d6cd1951f3:15353248d44c84990cb6bf8c72b1fee1
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/agTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-name="sarokar-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/97aab384-bf06-461e-9704-9e5e69e87b67.jpg" tvg-chno="117" group-title="All Channels", Sarokar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab2161d620c4ba8888244d24a02ef27:3d4289e96d54f9289a3478da345805ff
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="325" tvg-name="shemaroo" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/85aa9244-dfb0-4a50-b108-650977e03aca.jpg" tvg-chno="213" group-title="All Channels", Shemaroo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32e778609fc14e8caded59b340086fae:be5dd5bfcb85bafca0d03fba89834ce0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-name="shubh-cinema" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e54f525d-717e-4e12-88a6-80d352afd227.jpg" tvg-chno="524" group-title="All Channels", Shubh Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7ac3fc470a475ea98eccafbc793cbc:b6c0db5be860a2e511f8d801750db11c
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="87" tvg-name="space-4k" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9780b214-2925-429b-9855-df4cc57775e3.jpg" tvg-chno="169" group-title="All Channels", Space 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/FwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="80" tvg-name="tbn-asia" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/48e273c6-f001-468a-bc5b-a8503ed5798b.jpg" tvg-chno="904" group-title="All Channels", TBN Asia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b358dd8f8a48189ceea0584e54a839:2007863164ca67725316e7d587cc58df
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/awTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="36" tvg-name="tv-today" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7a99ed36-4433-4267-8fd4-d7436b523b0a.jpg" tvg-chno="149" group-title="All Channels", TV Today
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61842431046944dab1866ca55e4cd1a9:e3d5f46a58b0d555e454ca2caebc4d4e
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="72" tvg-name="tv5-monde" tvg-language="FRA" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/5ab1cc79-af72-4a6c-a659-90ef3cee37da.jpg" tvg-chno="412" group-title="All Channels", TV5 Monde
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c47799b62d4ffb8756b34a793ac60f:41f0f3a7fbe7bfaf5a75a5e1c5e276ac
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/QwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="128" tvg-name="zoom" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/c05c1bce-dda6-4861-8c2b-0cd4bc2628fa.jpg" tvg-chno="300" group-title="All Channels", Zoom
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9651ee4205b748e187d877cf84793711:133b6fee06594a15ee9ff82ae027dbef
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/NQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+# DH Exclusive (15 channels)
+#EXTINF:-1 tvg-id="6" tvg-name="action-sports-hd-1" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/eabe701c-d2e5-4c98-bd0c-6f06e8537103.jpg" tvg-chno="105" group-title="DH Exclusive", Action Sports HD 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4912a6d28e14838b15fa4c57f4d42ac:09d2a7f26d94dbb9dfdc2f2d2bbc7cf0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="action-sports-hd-2" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3db6653d-d30e-465c-8ba5-ac5a5cb84b51.jpg" tvg-chno="106" group-title="DH Exclusive", Action Sports HD 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2d1fd5a141e4ce38d2618670d411acd:b0e1d25d5f17c0f3c4a7448dce4f1f19
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-name="cine-hits" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/615f8696-144f-45cf-b657-3a1224285700.jpg" tvg-chno="110" group-title="DH Exclusive", Cine Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="8" tvg-name="comedy-plus" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/96433ce3-b003-4fa6-9899-93b0d9260b13.jpg" tvg-chno="108" group-title="DH Exclusive", Comedy plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9541071bb4a4fb19ed63c08e50927fe:003d26e0dcbf0d94446007a28e8c1c4b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="11" tvg-name="d-movies" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1bedec8b-1265-43b7-83b2-8e939b3f9719.jpg" tvg-chno="111" group-title="DH Exclusive", D Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="12" tvg-name="d-music" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/86e03a6f-a0e3-4319-8a01-22ecba539a75.jpg" tvg-chno="112" group-title="DH Exclusive", D Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d45216070b944628a7bf74d8552d1c2:c570e417e5844d5c12502e0d9dd5c4fe
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/6ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="2" tvg-name="dh-showcase" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f6f0992d-398f-418d-8610-2d702f227b1e.jpg" tvg-chno="101" group-title="DH Exclusive", DH Showcase
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9869ba772ad4b68b303fe6119442a40:51f6b1ebfb487594aee12f34452053d8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/HwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="9" tvg-name="gunjan-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b02d526d-df0b-4413-87d8-d259c4361609.jpg" tvg-chno="109" group-title="DH Exclusive", Gunjan HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e17e7a7fef40af8be6825b82a2f32f:f1746ddce45b72efa8a5c11a5d5d9149
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/5QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="7" tvg-name="jhigu-nepa" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/c31f1cb2-7330-45e3-beb5-cd33edc71cd4.jpg" tvg-chno="107" group-title="DH Exclusive", Jhigu Nepa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9b9d244dce448687696f0a56bcb075:0143138f6f4f696ba5a695d9971fe5ab
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/4wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="14" tvg-name="junior-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/75696627-34a5-449f-89a8-62c36dcc203a.jpg" tvg-chno="114" group-title="DH Exclusive", Junior TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=715e5f3927b446ccb842badab76f1881:11474e8784e8e63450b57d315339ead8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/6gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="16" tvg-name="madhesh-plus" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9493c21e-8138-4eda-8d66-b4d0fd46f937.jpg" tvg-chno="116" group-title="DH Exclusive", Madhesh Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da94205e934e94b8ba0882722ff2e6:c90980cabb535f3dfe90af23b0c338d7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="4" tvg-name="plus-movie-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3e815745-d081-43fb-a088-4fc8fb3fd32b.jpg" tvg-chno="103" group-title="DH Exclusive", Plus Movie HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IQT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-name="ramailo-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e1310622-1114-4abb-9d93-7ae4da2f79ae.jpg" tvg-chno="104" group-title="DH Exclusive", Ramailo HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a72efdf7e314b56849291818b51adc0:3cca5195e4d757af526b5e18cd7d11bb
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IgT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="3" tvg-name="reality-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/1308e498-80af-4ac3-afa2-729ed3fc6acd.jpg" tvg-chno="102" group-title="DH Exclusive", Reality TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13b8ddeeb623466e96079e495370ad43:adec25b9804cbaf1208c9bf7e27b1593
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IAT6vpkB0RDJ74RypSmE/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-name="sarokar-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/97aab384-bf06-461e-9704-9e5e69e87b67.jpg" tvg-chno="117" group-title="DH Exclusive", Sarokar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab2161d620c4ba8888244d24a02ef27:3d4289e96d54f9289a3478da345805ff
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+# Movies (7 channels)
+#EXTINF:-1 tvg-id="88" tvg-name="all-times-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4c472048-0a9c-49dc-a8c4-d02ee032926b.jpg" tvg-chno="521" group-title="Movies", All Times Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7836133ab0e249d9873679e0e637ac9c:634532e7e91fde8ec82ca2a6b21339d4
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="340" tvg-name="b4u-kadak" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/d909117e-fe62-4363-a55d-dc6efb318d65.jpg" tvg-chno="522" group-title="Movies", B4U Kadak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1aec37b40e4fd4b2d29fbfa7d03e7c:9a7b5cb09abb279ead2c458e8fc30eeb
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="327" tvg-name="b4u-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e3180c8c-7451-4901-a707-74e10a4a622f.jpg" tvg-chno="510" group-title="Movies", B4U Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/JgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="98" tvg-name="bflix-movies" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9866ad0e-e534-40b8-bb7d-95a3dc8a3af2.jpg" tvg-chno="523" group-title="Movies", Bflix Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1a4f98d0b4410da97200bd2d65558f:af7556c617e63728f5df54deeef3afce
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="170" tvg-name="goldmines-bollywood" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7a991eed-0b28-45eb-a46c-4eabd1436d45.jpg" tvg-chno="520" group-title="Movies", Goldmines Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/fwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="325" tvg-name="shemaroo" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/85aa9244-dfb0-4a50-b108-650977e03aca.jpg" tvg-chno="213" group-title="Movies", Shemaroo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32e778609fc14e8caded59b340086fae:be5dd5bfcb85bafca0d03fba89834ce0
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/IwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-name="shubh-cinema" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e54f525d-717e-4e12-88a6-80d352afd227.jpg" tvg-chno="524" group-title="Movies", Shubh Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7ac3fc470a475ea98eccafbc793cbc:b6c0db5be860a2e511f8d801750db11c
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/MwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+# Nepali (24 channels)
+#EXTINF:-1 tvg-id="30" tvg-name="abc" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/d8d0db1f-be83-4cb0-a9e0-3b0adca5ff41.jpg" tvg-chno="139" group-title="Nepali", ABC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5cdfa60aa754987a28398c7869d1dcd:83d63f0295f09896f1f25bffa4b4b9e6
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="34" tvg-name="ap-1-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/80ba3c2f-5574-4a80-8b81-7240d01374bf.jpg" tvg-chno="134" group-title="Nepali", AP 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f363a987fbfa4ea1a79e5548cc9f905c:df1c341cec5d9d435273f9d1397ef892
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="28" tvg-name="avenues" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/e1d4201b-9e9d-417c-966d-105ac7a3a43b.jpg" tvg-chno="137" group-title="Nepali", Avenues
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be0970d37b4d421f9923dee8b79d44e3:3f51510f96fe1a02d0b14312542c6ed8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="35" tvg-name="btv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/05673427-3424-4028-ae37-4e45c67f0154.jpg" tvg-chno="148" group-title="Nepali", BTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cacb1c6b4764f5b970145817158ea7a:de1a708607c0e547a0a38390cb11482a
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="38" tvg-name="bhakti-darsan" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/14519184-060c-4ea9-8e37-8666318c5cde.jpg" tvg-chno="151" group-title="Nepali", Bhakti Darsan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="32" tvg-name="business-plus-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/8998910e-45b0-4df4-835b-11e5a8570327.jpg" tvg-chno="152" group-title="Nepali", Business Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c844fc54803946c8a752ef4f806a47f2:b9600afa51ebf20eca030fff8ea3fd06
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="48" tvg-name="global" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/df17a06e-063c-456b-b28c-8904c4915de9.jpg" tvg-chno="141" group-title="Nepali", Global
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86584e7fe11d4faf80e4dd3b3d475bf3:85fc13f52bb559bacdd8613e1675bd06
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="33" tvg-name="himalaya-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b401a2a2-a964-4f89-9414-de3e50ca8af8.jpg" tvg-chno="133" group-title="Nepali", Himalaya HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=113ab6bec8d24095a427e5e881940d74:8f7681365ca6e38cb1b9fc632fbfd481
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="95" tvg-name="himshikhar-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/36760b19-ce35-44b8-8531-7ea21462a9fb.jpg" tvg-chno="170" group-title="Nepali", Himshikhar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccb7b69c9804087a5526e82a1dcde8e:b3107772da79683a8c2ae46645c5dca1
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/GATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="image" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/0f3ae34e-7c77-4110-b18b-faba01a5c693.jpg" tvg-chno="131" group-title="Nepali", Image
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9afd927817142e392cb565f5aff3a3e:46ed9b8f41fd0d66dc0c314d50f41d87
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="39" tvg-name="janata-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/cfb420ba-4c49-4664-8ff6-733c2afc4f23.jpg" tvg-chno="153" group-title="Nepali", Janata TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b96cf8eb7f04074b6656791e7f0a640:2cbf77b4b3e7aa9fb9d5b1ac4898d392
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/AwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-name="kantipur-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/872ffb07-b21a-4b29-a021-8653e2f61d08.jpg" tvg-chno="130" group-title="Nepali", Kantipur HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d349f2d22a4f0eb342d9e00af8d183:71f2a02ac0c875b4827a02a11ebdce03
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/7wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="31" tvg-name="mountain-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/cf0adb64-3d3d-458c-9649-cacd2e28fb60.jpg" tvg-chno="140" group-title="Nepali", Mountain HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be1c274e1069411f8b59977e651d5c79:44c79c053dc8271441389a79fd2942e4
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-name="ntv-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9b287812-8774-49e7-8b14-9543cdd4b9e3.jpg" tvg-chno="132" group-title="Nepali", NTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a94d5da343b44e7a08413f29403f87b:61429c8f811aaf074244141bc32b7a35
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-name="ntv-itahari-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3fdcd79f-6b87-4d5f-a9ec-583d6ffd980c.jpg" tvg-chno="147" group-title="Nepali", NTV Itahari HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=191bf78a29ca43c480192248e61cee4d:4d53f66454db7463525a3e3345fcc25b
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9QTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="25" tvg-name="ntv-kohalpur-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9c94b727-0a99-4a33-b746-78fa2c30ab63.jpg" tvg-chno="146" group-title="Nepali", NTV Kohalpur HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911bc3577bc847bea45cab361b3bd1ef:d5b013b044b7a0ecab8d996ec4f80828
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="24" tvg-name="ntv-news-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/b9b1a34b-4e8a-4580-a3a4-16c3fbcd8f55.jpg" tvg-chno="145" group-title="Nepali", NTV News HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=659e20a278324f89afe3992cb6761c39:b8f3e2ac81baaa553cadcc0d6e0959c2
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/8wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="62" tvg-name="nepal-mandal" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/c61e29a0-b2a7-4a67-9590-53fe72537633.jpg" tvg-chno="167" group-title="Nepali", Nepal Mandal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b6b95879dcd49019b04f39ea44fe3b1:f7ee6e5d19a04171c8013f3b310b7471
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/FQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="29" tvg-name="news-24" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f0f39e19-bd5d-4450-883c-7f9f5f19e2a5.jpg" tvg-chno="138" group-title="Nepali", News 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/-ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="41" tvg-name="omkar" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/0889c9ca-7024-406f-9a8c-9d96722df47a.jpg" tvg-chno="154" group-title="Nepali", Omkar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f363ca579b41e6b14a43462bba8a28:11ace93705c729fe336ea78d1ab5c2a7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/BQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="40" tvg-name="prime-times-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/685be973-4d13-4d04-9b83-7d4d589a9a10.jpg" tvg-chno="135" group-title="Nepali", Prime Times HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9500add101454d7abec9491283fca2c4:fb1bca188cf4247bbfc6f5265e48be19
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/BATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="27" tvg-name="sagarmatha" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/89bab37a-bf74-4c32-bcf4-bf0e3d29e49d.jpg" tvg-chno="136" group-title="Nepali", Sagarmatha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87c5d1bd91b245d5b7e42107da0ed75f:df30c80e16bb6ec4b21ffccb9cd9e730
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/9gTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="87" tvg-name="space-4k" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/9780b214-2925-429b-9855-df4cc57775e3.jpg" tvg-chno="169" group-title="Nepali", Space 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00000000000000000000000000000000:00000000000000000000000000000000
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/FwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="36" tvg-name="tv-today" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/7a99ed36-4433-4267-8fd4-d7436b523b0a.jpg" tvg-chno="149" group-title="Nepali", TV Today
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61842431046944dab1866ca55e4cd1a9:e3d5f46a58b0d555e454ca2caebc4d4e
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/_wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
+
+# Sports (3 channels)
+#EXTINF:-1 tvg-id="3175" tvg-name="a-sports" tvg-language="ENG" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/4442d302-99bd-4ed1-89ab-0194ce4ef719.jpg" tvg-chno="610" group-title="Sports", A Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1db17ffc1cf749d6a299ab207fc5d6ef:e7a14ecaf32847dfc1189be156d2fcb8
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/iwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="230" tvg-name="dd-sports" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/aa1a644e-88d4-42a1-a9f4-7071e6a00f1a.jpg" tvg-chno="609" group-title="Sports", DD Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37bef186f9534561b32530074539766f:de40706695243fca2781b9a5a8929ef7
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/igTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="230" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" tvg-chno="611" group-title="Sports", DD Sports 1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b5e323c3c8a4b77a892853849752efe:14dc5abc2efb8be359d66591a329e429
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
