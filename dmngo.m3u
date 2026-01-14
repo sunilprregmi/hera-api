@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
 
-# Scrapped on 2026-01-13 04:10:18
-# Total 78 channels Available.
+# Scrapped on 2026-01-14 04:17:12
+# Total 77 channels Available.
 # Property Of DMN @ dishhomego.com.np
 # Combined by Sunil Prasad @ sunilprasad.com.np
 # Free resources with Public Broadcast Only.
@@ -848,16 +848,6 @@ https://ottlive.dishhome.com.np/protected/GATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/GATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-
-#EXTINF:-1 tvg-id="yoho-tv" tvg-name="yoho-tv" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/_agTeZsBOObeQ4xxl2Gm/posters/ad20b523-15d4-41c6-abe8-ce36a5467709.png" group-title="All Channels", Yoho TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/_agTeZsBOObeQ4xxl2Gm/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="496" tvg-name="anjan" tvg-language="HIN" tvg-chno="212" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/505c43f7-c235-4bcf-84e8-5e4dfeae945c.jpg" group-title="All Channels", Anjan
 #KODIPROP:inputstream=inputstream.adaptive
