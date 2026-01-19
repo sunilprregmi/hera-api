@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
 
-# Scrapped on 2026-01-18 04:13:52
+# Scrapped on 2026-01-19 04:20:18
 # Total 77 channels Available.
 # Property Of DMN @ dishhomego.com.np
 # Combined by Sunil Prasad @ sunilprasad.com.np
@@ -1132,7 +1132,7 @@ https://ottlive.dishhome.com.np/protected/QwTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="236" tvg-name="fashion-tv-hd" tvg-language="ENG" tvg-chno="413" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/64f00790-d57f-42d6-b113-5020943a1327.jpg" group-title="All Channels", Fashion TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vADoikAvQNiQOdivVVgR0Q","k":"aGsjMCZG2ZVDbixAG2FsLg"},{"kty":"oct","kid":"IiBlkgH4QYiCytMOJcb4AQ","k":"1BKv4pxu08eYy8HNDE9oUw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -1142,7 +1142,7 @@ https://ottlive.dishhome.com.np/protected/RATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="236" tvg-name="fashion-tv-hd" tvg-language="ENG" tvg-chno="413" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/64f00790-d57f-42d6-b113-5020943a1327.jpg" group-title="Infotainment", Fashion TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vADoikAvQNiQOdivVVgR0Q","k":"aGsjMCZG2ZVDbixAG2FsLg"},{"kty":"oct","kid":"IiBlkgH4QYiCytMOJcb4AQ","k":"1BKv4pxu08eYy8HNDE9oUw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
