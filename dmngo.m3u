@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
 
-# Scrapped on 2026-01-20 04:15:20
+# Scrapped on 2026-01-21 04:15:01
 # Total 77 channels Available.
 # Property Of DMN @ dishhomego.com.np
 # Combined by Sunil Prasad @ sunilprasad.com.np
@@ -172,7 +172,7 @@ https://ottlive.dishhome.com.np/protected/4wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="8" tvg-name="comedy-plus" tvg-language="NEP" tvg-chno="108" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/96433ce3-b003-4fa6-9899-93b0d9260b13.jpg" group-title="All Channels", Comedy plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+VQQcbtKT7Ge1jwI5Qkn/g","k":"AD0m4Ny/DZREYAeijowcSw"},{"kty":"oct","kid":"lxt5lXlQRaO0qnn2YyYr5Q","k":"jNsPb59SWvG6qPqA0YDf9Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/80uyQ/iS5euRAyc2SA5Xg","k":"0LYyY+VctbWLcWaKdPxecg"},{"kty":"oct","kid":"+VQQcbtKT7Ge1jwI5Qkn/g","k":"AD0m4Ny/DZREYAeijowcSw"},{"kty":"oct","kid":"lxt5lXlQRaO0qnn2YyYr5Q","k":"jNsPb59SWvG6qPqA0YDf9Q"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -182,7 +182,7 @@ https://ottlive.dishhome.com.np/protected/5ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="8" tvg-name="comedy-plus" tvg-language="NEP" tvg-chno="108" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/96433ce3-b003-4fa6-9899-93b0d9260b13.jpg" group-title="DH Exclusive", Comedy plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+VQQcbtKT7Ge1jwI5Qkn/g","k":"AD0m4Ny/DZREYAeijowcSw"},{"kty":"oct","kid":"lxt5lXlQRaO0qnn2YyYr5Q","k":"jNsPb59SWvG6qPqA0YDf9Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/80uyQ/iS5euRAyc2SA5Xg","k":"0LYyY+VctbWLcWaKdPxecg"},{"kty":"oct","kid":"+VQQcbtKT7Ge1jwI5Qkn/g","k":"AD0m4Ny/DZREYAeijowcSw"},{"kty":"oct","kid":"lxt5lXlQRaO0qnn2YyYr5Q","k":"jNsPb59SWvG6qPqA0YDf9Q"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -252,7 +252,7 @@ https://ottlive.dishhome.com.np/protected/5wTOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="12" tvg-name="d-music" tvg-language="NEP" tvg-chno="112" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/86e03a6f-a0e3-4319-8a01-22ecba539a75.jpg" group-title="All Channels", D Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUUhYHC5RGKKe/dNhVLRwg","k":"xXDkF+WETVwSUC4NndXE/g"},{"kty":"oct","kid":"OKS9aoXzSWqd7fKl0N7HIA","k":"SVT8PbfYXvhMterUP0O3uQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1ytNu9+pRzmA3cIbNsWzMQ","k":"UDIevTJL1Zp/dYAJJAzzTQ"},{"kty":"oct","kid":"DUUhYHC5RGKKe/dNhVLRwg","k":"xXDkF+WETVwSUC4NndXE/g"},{"kty":"oct","kid":"OKS9aoXzSWqd7fKl0N7HIA","k":"SVT8PbfYXvhMterUP0O3uQ"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -262,7 +262,7 @@ https://ottlive.dishhome.com.np/protected/6ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="12" tvg-name="d-music" tvg-language="NEP" tvg-chno="112" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/86e03a6f-a0e3-4319-8a01-22ecba539a75.jpg" group-title="DH Exclusive", D Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUUhYHC5RGKKe/dNhVLRwg","k":"xXDkF+WETVwSUC4NndXE/g"},{"kty":"oct","kid":"OKS9aoXzSWqd7fKl0N7HIA","k":"SVT8PbfYXvhMterUP0O3uQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1ytNu9+pRzmA3cIbNsWzMQ","k":"UDIevTJL1Zp/dYAJJAzzTQ"},{"kty":"oct","kid":"DUUhYHC5RGKKe/dNhVLRwg","k":"xXDkF+WETVwSUC4NndXE/g"},{"kty":"oct","kid":"OKS9aoXzSWqd7fKl0N7HIA","k":"SVT8PbfYXvhMterUP0O3uQ"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
