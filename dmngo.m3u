@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
 
-# Scrapped on 2026-01-22 04:18:06
+# Scrapped on 2026-01-23 04:12:51
 # Total 77 channels Available.
 # Property Of DMN @ dishhomego.com.np
 # Combined by Sunil Prasad @ sunilprasad.com.np
@@ -32,7 +32,7 @@ https://ottlive.dishhome.com.np/protected/Ybdn8poB2gHDw8GGqcPT/dash/manifest.mpd
 #EXTINF:-1 tvg-id="2" tvg-name="dh-showcase" tvg-language="NEP" tvg-chno="101" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f6f0992d-398f-418d-8610-2d702f227b1e.jpg" group-title="All Channels", DH Showcase
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2Yabp3KtS2izA/5hGUQqQA","k":"Ufax6/tIdZSu4S80RSBT2A"},{"kty":"oct","kid":"H8SFfwlKTUi4Rh/Nb6xzsA","k":"edkxdIYS2C9DEHvrDP4szg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"E3atbgxaTuGWKNXtasXbYw","k":"UZWR+2XV96IuWFnHBq419A"},{"kty":"oct","kid":"2Yabp3KtS2izA/5hGUQqQA","k":"Ufax6/tIdZSu4S80RSBT2A"},{"kty":"oct","kid":"H8SFfwlKTUi4Rh/Nb6xzsA","k":"edkxdIYS2C9DEHvrDP4szg"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -42,7 +42,7 @@ https://ottlive.dishhome.com.np/protected/HwT6vpkB0RDJ74RypSmE/dash/manifest.mpd
 #EXTINF:-1 tvg-id="2" tvg-name="dh-showcase" tvg-language="NEP" tvg-chno="101" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/f6f0992d-398f-418d-8610-2d702f227b1e.jpg" group-title="DH Exclusive", DH Showcase
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2Yabp3KtS2izA/5hGUQqQA","k":"Ufax6/tIdZSu4S80RSBT2A"},{"kty":"oct","kid":"H8SFfwlKTUi4Rh/Nb6xzsA","k":"edkxdIYS2C9DEHvrDP4szg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"E3atbgxaTuGWKNXtasXbYw","k":"UZWR+2XV96IuWFnHBq419A"},{"kty":"oct","kid":"2Yabp3KtS2izA/5hGUQqQA","k":"Ufax6/tIdZSu4S80RSBT2A"},{"kty":"oct","kid":"H8SFfwlKTUi4Rh/Nb6xzsA","k":"edkxdIYS2C9DEHvrDP4szg"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
@@ -1412,7 +1412,7 @@ https://ottlive.dishhome.com.np/protected/TgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="108" tvg-name="france-24-hd" tvg-language="ENG" tvg-chno="709" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3a6e8e32-3d52-4a02-b8b8-1a20845c3301.jpg" group-title="News", France 24 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DvuebkQvSUO2/YmF513YZQ","k":"tbVgZKE3xobqd7jGlWOyvw"},{"kty":"oct","kid":"Nr8Yx4ksRaWSei11w1yxtg","k":"PCAR8J6w59U5CAYzDclb+Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ClhG1bR3TGiRBEoafDKvRw","k":"On/Skj5nl7B8aeQRIFlf+w"},{"kty":"oct","kid":"DvuebkQvSUO2/YmF513YZQ","k":"tbVgZKE3xobqd7jGlWOyvw"},{"kty":"oct","kid":"Nr8Yx4ksRaWSei11w1yxtg","k":"PCAR8J6w59U5CAYzDclb+Q"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
