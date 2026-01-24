@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/sunilprregmi/go-epg/raw/refs/heads/main/gotv.xml.gz"
 
-# Scrapped on 2026-01-23 04:12:51
+# Scrapped on 2026-01-24 04:06:22
 # Total 77 channels Available.
 # Property Of DMN @ dishhomego.com.np
 # Combined by Sunil Prasad @ sunilprasad.com.np
@@ -1442,7 +1442,7 @@ https://ottlive.dishhome.com.np/protected/UQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="122" tvg-name="cna" tvg-language="ENG" tvg-chno="712" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/3985dd57-e878-4f64-859f-1f061a8b5673.jpg" group-title="News", CNA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7eQovpeQSFmCzvkg3u0DOw","k":"vCApGVus3RHKPmVnsurOwg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KB18l/VIRESYIw+mEMB3Gw","k":"JMTJZEI2bxLcg2KV46L8Dg"},{"kty":"oct","kid":"7eQovpeQSFmCzvkg3u0DOw","k":"vCApGVus3RHKPmVnsurOwg"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
